@@ -128,3 +128,7 @@ source via adapters · our value is the integration layer.
 
 AGPL-3.0 — deliberately, to keep the ecosystem open. See
 [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Documentation
+
+This section provides additional information about the project structure and local development workflow
